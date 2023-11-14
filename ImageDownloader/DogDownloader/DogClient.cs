@@ -19,7 +19,7 @@ namespace DogDownloader
         }
         public async Task<string[]> GetDogImageUrlByBreedAsync(string breed, int count = 1)
         {
-            var path = $"https://dog.ceo/api/breed/{breed}/images/random/3";
+            var path = $"https://dog.ceo/api/breed/{breed}/images/random/{count}";
 
             HttpResponseMessage response = await _client.GetAsync(path);
             response.EnsureSuccessStatusCode();

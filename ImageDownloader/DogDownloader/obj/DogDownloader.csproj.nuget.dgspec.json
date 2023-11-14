@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ImageDownloader\\DogDownloader\\DogDownloader.csproj": {}
+    "C:\\Projects\\DogsDownloader\\ImageDownloader\\DogDownloader\\DogDownloader.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ImageDownloader\\DogDownloader\\DogDownloader.csproj": {
+    "C:\\Projects\\DogsDownloader\\ImageDownloader\\DogDownloader\\DogDownloader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ImageDownloader\\DogDownloader\\DogDownloader.csproj",
+        "projectUniqueName": "C:\\Projects\\DogsDownloader\\ImageDownloader\\DogDownloader\\DogDownloader.csproj",
         "projectName": "DogDownloader",
-        "projectPath": "C:\\Projects\\ImageDownloader\\DogDownloader\\DogDownloader.csproj",
+        "projectPath": "C:\\Projects\\DogsDownloader\\ImageDownloader\\DogDownloader\\DogDownloader.csproj",
         "packagesPath": "C:\\Users\\Григорий\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ImageDownloader\\DogDownloader\\obj\\",
+        "outputPath": "C:\\Projects\\DogsDownloader\\ImageDownloader\\DogDownloader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Григорий\\AppData\\Roaming\\NuGet\\NuGet.Config",

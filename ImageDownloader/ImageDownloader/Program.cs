@@ -23,7 +23,7 @@ namespace ImageDownloader
                 var bytearray = await GetImageAsync(url);
 
                 // Путь прописан руками для скорости, не успевал причесать код
-                var filePath = "C:/Projects/ImageDownloader/ImageDownloader/Images/dog.jpg";
+                var filePath = "C:/Projects/DogsDownloader/ImageDownloader/ImageDownloader/Images/dog.jpg";
                 File.WriteAllBytes(filePath, bytearray);
                 Process.Start(new ProcessStartInfo()
                 {
@@ -38,7 +38,7 @@ namespace ImageDownloader
                 for (int i = 0; i < urls.Length; i++)
                 {
                     var imageBytes = await GetImageAsync(url);
-                    var imagePath = $"C:/Projects/ImageDownloader/ImageDownloader/Images/dog{i}.jpg";
+                    var imagePath = $"C:/Projects/DogsDownloader/ImageDownloader/ImageDownloader/Images/dog{i}.jpg";
                     File.WriteAllBytes(imagePath, imageBytes);
                     Process.Start(new ProcessStartInfo()
                     {

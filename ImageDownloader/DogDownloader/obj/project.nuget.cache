@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dhyhLnnaCNWV9tcLHA8YCQwVlolO0BieES6m/eGtemSNOTiMALyxy90LrAakGIXvjvR/Vxudge3FTubPNoddTw==",
+  "dgSpecHash": "RWUI4medZ2YNibYlUiflHvn6VSRey4p4YIaAE9JpVOJoUAyqmQLKuO53ml6oYHl3XaFd82bNk3vPq+xcpoYeFg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ImageDownloader\\DogDownloader\\DogDownloader.csproj",
+  "projectFilePath": "C:\\Projects\\DogsDownloader\\ImageDownloader\\DogDownloader\\DogDownloader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

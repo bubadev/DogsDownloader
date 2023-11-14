@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ImageDownloader/1.0.0": {
+        "dependencies": {
+          "DogDownloader": "1.0.0"
+        },
+        "runtime": {
+          "ImageDownloader.dll": {}
+        }
+      },
+      "DogDownloader/1.0.0": {
+        "runtime": {
+          "DogDownloader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageDownloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DogDownloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Projects\ImageDownloader\DogDownloader\bin\Debug\net6.0\DogDownloader.deps.json
+C:\Projects\ImageDownloader\DogDownloader\bin\Debug\net6.0\DogDownloader.dll
+C:\Projects\ImageDownloader\DogDownloader\bin\Debug\net6.0\DogDownloader.pdb
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.csproj.AssemblyReference.cache
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.AssemblyInfoInputs.cache
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.AssemblyInfo.cs
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.csproj.CoreCompileInputs.cache
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.dll
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\refint\DogDownloader.dll
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\DogDownloader.pdb
+C:\Projects\ImageDownloader\DogDownloader\obj\Debug\net6.0\ref\DogDownloader.dll

@@ -37,7 +37,7 @@ namespace ImageDownloader
 
                 for (int i = 0; i < urls.Length; i++)
                 {
-                    var imageBytes = await GetImageAsync(url);
+                    var imageBytes = await GetImageAsync(urls[i]);
                     var imagePath = $"C:/Projects/DogsDownloader/ImageDownloader/ImageDownloader/Images/dog{i}.jpg";
                     File.WriteAllBytes(imagePath, imageBytes);
                     Process.Start(new ProcessStartInfo()
